@@ -8,6 +8,10 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+### 📊 Estadísticas de GitHub
+![Estadísticas de Daniel](https://github-readme-stats.vercel.app/api?username=danmascarilla&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=danmascarilla&layout=compact&theme=radical)
+
 - 🔭 I’m currently working on SD Distribuciones as IT Manager
 - 💬 Ask me about anything on my social media
 - 📫 How to reach me: Social media and email on my profile
