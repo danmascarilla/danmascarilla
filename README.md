@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - 🔭 **Currently:** Working at **SD Distribuciones** as **IT Manager**.
-- 🧠 **Passion:** Extracting value from data and building intelligent solutions through Machine Learning.
+- 🧠 **Focus:** Deep Diving into **Supervised Learning**, **Feature Engineering**, and **Model Optimization**.
 - 💬 **Ask me:** About anything on my social media!
 - 📫 **How to reach me:** Social media and email on my profile.
 
@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/daniel-mascarilla-del-olmo-67a5512b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
 
 ---
